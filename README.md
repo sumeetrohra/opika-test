@@ -9,3 +9,7 @@
 
 1. yarn
 2. yarn test
+
+## Demo
+
+![Demo](https://www.loom.com/share/c3b79b5ea32748f993ef9b7030425214)
